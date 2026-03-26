@@ -1,6 +1,3 @@
-## 🔒 Data Privacy & Security
-To comply with healthcare data privacy standards, this repository contains **no real-world patient data**. 
-* **Screenshots**: All visual aids use synthetic data or blurred sensitive fields to demonstrate logic without compromising confidentiality.
 
 
 <div align="center">
@@ -133,5 +130,32 @@ The system has been meticulously validated to ensure that the synchronization sc
 <img src="email.png" alt="Proof of Automated Email Schedule" width="700">
 
 <br />
+
+</div>
+
+
+
+| **Notification Failure** | SMTP security block. | Verify Google App Password or SMTP credentials. |
+
+---
+
+## 🔒 Data Privacy & Security
+To comply with healthcare data privacy standards, this repository contains **no real-world patient data**. 
+
+* **Screenshots**: All visual aids use synthetic data or blurred sensitive fields to demonstrate logic without compromising confidentiality.
+* **Datasets**: The source `.csv` and `.xlsx` files used in production are excluded via `.gitignore` to protect sensitive information.
+
+---
+
+<div align="center">
+
+### 🛡️ Data Integrity Guarantee
+*This pipeline utilizes **Idempotency Logic**, ensuring that no duplicate records are ever inserted into the production database, even in the event of multiple manual triggers.*
+
+---
+
+**Developed by Nandini Bhalekar** *Data Science Internship Milestone - 2026*
+
+[LinkedIn](https://www.linkedin.com/in/nandini-bhalekar/) | [GitHub Portfolio](https://github.com/) 
 
 </div>
