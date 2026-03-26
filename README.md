@@ -125,7 +125,7 @@ The system has been meticulously validated to ensure that the synchronization sc
 
 <br />
 
-<img src="email-proof.png" alt="Proof of Automated Email Schedule" width="700">
+<img src="email.png" alt="Proof of Automated Email Schedule" width="700">
 
 <br />
 
