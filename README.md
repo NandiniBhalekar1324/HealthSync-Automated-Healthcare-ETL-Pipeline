@@ -111,3 +111,22 @@ Below is the architectural layout of the automated ETL pipeline as configured in
   <img src="workflow-screenshot.png" alt="HealthSync n8n Workflow" width="800">
   <p><i>Figure 1: Automated sequence featuring Schedule Trigger, Python Execution, and SMTP Notification nodes.</i></p>
 </div>
+
+
+
+<div align="center">
+
+## 📊 Proof of End-to-End Automation
+### *Continuous Monitoring and Data Sync Validation*
+
+<br />
+
+The system has been meticulously validated to ensure that the synchronization schedule is operating as intended. Below is evidence of the pipeline's operational resilience, demonstrating three consecutive execution cycles, exactly **30 minutes apart**.
+
+<br />
+
+<img src="email-proof.png" alt="Proof of Automated Email Schedule" width="700">
+
+<br />
+
+</div>
