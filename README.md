@@ -1,3 +1,8 @@
+## 🔒 Data Privacy & Security
+To comply with healthcare data privacy standards, this repository contains **no real-world patient data**. 
+* **Screenshots**: All visual aids use synthetic data or blurred sensitive fields to demonstrate logic without compromising confidentiality.
+
+
 <div align="center">
 
 # 📘 User Guide: HealthSync Automated Pipeline
