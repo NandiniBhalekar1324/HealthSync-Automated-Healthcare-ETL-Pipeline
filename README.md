@@ -21,6 +21,7 @@
 3. [Deployment Steps](#-3-deployment-steps)
 4. [Monitoring & Reporting](#-4-monitoring--reporting)
 5. [Troubleshooting & Maintenance](#-5-troubleshooting--maintenance)
+   
 
 ---
 
@@ -156,6 +157,6 @@ To comply with healthcare data privacy standards, this repository contains **no 
 
 **Developed by Nandini Bhalekar** *Data Science Internship Milestone - 2026*
 
-[LinkedIn](https://www.linkedin.com/in/nandini-bhalekar/) | [GitHub Portfolio](https://github.com/) 
+[LinkedIn](https://www.linkedin.com/in/bhalekarnandini/) | [GitHub Portfolio](https://github.com/) 
 
 </div>
